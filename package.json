@@ -8,7 +8,7 @@
     "react-email-editor": "^0.9.9",
     "react-load-script": "^0.0.6",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.1.1",
+    "react-scripts": "3.4.4",
     "styled-components": "^4.3.2"
   },
   "scripts": {
